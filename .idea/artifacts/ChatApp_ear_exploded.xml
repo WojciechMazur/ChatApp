@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="ChatApp:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatApp_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ChatApp/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="ChatApp:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
